@@ -27,7 +27,7 @@
 
 ## 👩🏼‍💻 About BLOG-APP 
 
-![screenshot](/imageblog.jpg)
+![screenshot](/imageblog.png)
 
 As part of the Ruby on Rails section of the Microverse technical curriculum, every student has to create a simple blog system and learn the basics of Ruby on Rails including:
 
