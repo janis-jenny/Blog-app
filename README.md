@@ -11,7 +11,6 @@
   <strong>Made by Jenny Cárdenas and Thales Neves</strong>
   <br>
    This is a blog app built to practice development with Ruby on Rails
-
 </p>
 
 <p align="center">
@@ -28,8 +27,6 @@
 
 ## 👩🏼‍💻 About BLOG-APP 
 
-![screenshot](./imageblog.png)
-
 As part of the Ruby on Rails section of the Microverse technical curriculum, every student has to create a simple blog system and learn the basics of Ruby on Rails including:
 
 - Models, Views, and Controllers (MVC)
@@ -42,13 +39,10 @@ As part of the Ruby on Rails section of the Microverse technical curriculum, eve
 <hr>
 
 
+
 ## 🔧 Built With
 
 - Ruby on Rails 
-
-
-## 🤖 Live Demo
-
 
 
 
