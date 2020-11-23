@@ -27,6 +27,8 @@
 
 ## 👩🏼‍💻 About BLOG-APP 
 
+![screenshot](/imageblog.jpg)
+
 As part of the Ruby on Rails section of the Microverse technical curriculum, every student has to create a simple blog system and learn the basics of Ruby on Rails including:
 
 - Models, Views, and Controllers (MVC)
@@ -44,6 +46,10 @@ As part of the Ruby on Rails section of the Microverse technical curriculum, eve
 
 - Ruby on Rails 
 
+
+## 🤖 Live Demo
+
+[Heroku](https://calm-wildwood-72213.herokuapp.com/articles)
 
 
 ## 👥 Author
